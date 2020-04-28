@@ -86,7 +86,7 @@ public class MainActivity extends AppCompatActivity{
             "Cumi crispy",
             "Sayur asem",
             "Sayur bening",
-            "Eseng eseng mie",
+            "Eseng - eseng mie",
             "Nasi goreng",
             "Kering tempe tahu",
             "Bebek purnama",
@@ -114,7 +114,9 @@ public class MainActivity extends AppCompatActivity{
             "Ayam asam manis",
             "Fuyunghai",
             "Serundeng",
-            "Martabak mie"
+            "Martabak mie",
+            "Semur Jengkol",
+            "Telor Balado"
         };
     }
 }
